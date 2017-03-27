@@ -1,0 +1,48 @@
+h1 {
+ margin: 15px;
+}
+
+h3 {
+ margin-left: 20px;
+}
+
+p {
+margin-left: 20px;
+
+}
+
+html, body{
+    color: #777777 ;
+    background-image: url("");
+    border-color: #dddddd ;
+    font-size: 18px;
+    line-height: 34px;
+    font-family: 'Baloo Bhaina', cursive;
+    background-image: url("../images/concrete_seamless.png");
+    background-size: 100%;
+}
+
+
+.wrapper {
+ min-height: 100%;
+ height: auto !important;
+ height: 100%;
+ margin: 0 auto ;
+}
+.mainHeader{
+    columns:
+}
+#game{
+    text-align: left;
+}
+#container{
+    width: 100%;
+    max-width: 960px;
+    margin-left: 15px;
+    clear: both;    
+}
+
+.footer, .push {
+ height: 5px;
+ text-align: center;
+}
