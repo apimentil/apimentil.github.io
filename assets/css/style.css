@@ -1,0 +1,90 @@
+html {
+	background-image: url("../images/Trivia_BG_1.jpg");
+}
+
+/*h4 {
+	font-family: 'Lobster', cursive;
+	font-size: 36pt;
+	background: #fff;
+	margin-right: 445px;
+	padding-left: 35ptx
+	color: #0061C2;
+ 	margin-left: -10px;
+ 	border: solid;
+ 	border-left:none;
+ 	border-width: 6pt;
+ 	border-color: #000000;
+}	*/
+
+
+h4 {
+	align-items: center;
+	text-align: center;
+	padding-top: 70px;
+	padding-bottom: 15px;
+	border: solid;
+ 	border-top: none;
+ 	border-width: 6pt;
+ 	border-color: #000000;
+	font-family: 'Lobster', cursive;
+	font-size: 36pt;
+	background: #fff;
+	margin-top: -10px;
+    margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 15px;
+	width: 550px;
+	color: #0061C2;
+}	
+
+h2 {
+ 	font-family: 'Abel', sans-serif;
+	font-size: 18pt;
+	padding: 15pt;
+	color: #0061C2;
+	margin-bottom: 0;
+}
+
+.radio-inline {
+	font-family: 'Abel', sans-serif;
+	font-size: 12pt;
+	padding: 15pt;
+}
+
+
+.questions{
+	width: 550px;
+	background: #fff;
+	border: solid;
+ 	border-width: 6pt;
+ 	border-color: #000000;
+    margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 20pt;
+}
+
+form {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  vertical-align: center;
+  padding-bottom: 12pt;
+}
+
+#txt {
+  font-family: 'Abel', sans-serif;
+  font-size:22pt;
+  font-weight:bold;
+  width: 550px;
+  text-align: center;
+  vertical-align: center;
+  width: 550px;
+  background: #fff;
+  border: solid;
+  border-width: 6pt;
+  margin-left: auto;
+  margin-right: auto;
+  border: solid;
+  border-width: 6pt;
+  border-color: #000000;
+}
