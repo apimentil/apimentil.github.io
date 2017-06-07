@@ -19,7 +19,7 @@ inquirer.prompt([{
 }]).then(function(answer) {
     if (answer.command === 'add-flashcard') {
         addCard();
-    } else if (answer.command === 'show-all-cards') {
+    } else {
         showCards();
     }
 });
